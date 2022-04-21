@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "crypto-js": "^4.0.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "uuidv4": "^6.2.6"
   }
 }
